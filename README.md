@@ -64,3 +64,23 @@ image description: Interactive slicer and link
 - linked to **PivotTable** data was used for a wider range of visualizations.
 - **Slicers**: Interactive Slicers for Country and Job Type were implemented to allow users to easily filter the entire dashboard.
 - **UI/UX Design**: A deliberate color palette was chosen using a color wheel to ensure the dashboard is not only functional but also visually appealing and easy to read. Navigation buttons are used to switch between different views or pages.
+
+## ⚙️ How to Use
+
+The dashboard is designed for intuitive use.
+1.  Download the [Excel Data Job Dashboard Project.xlsx](https://github.com/adam-astiti/Excel_Data_Job_Dashboard/blob/main/Excel%20Data%20Job%20Dashboard%20Project.xlsx) file from this repository.
+2.  Open the file in Excel. You will land directly on the **Main Dashboard**.
+3.  Use the **Slicers** on the right to filter the view by Country and Job Type.
+4.  Use the **navigation pane** on the left to explore different sections of the analysis.
+
+## 📄 Dataset
+
+The dataset used for this analysis contains information on data-related job postings in 2023. It was sourced from **Luke Barousse** and is publicly available on Hugging Face.
+
+* **Dataset Link:** [lukebarousse/data_jobs](https://huggingface.co/datasets/lukebarousse/data_jobs)
+
+## 👤 Contact
+
+* **Author:** Adam Astiti
+* **LinkedIn:** [linkedin.com/in/adam-astiti](https://www.linkedin.com/in/adam-astiti-a3787312a/)
+* **GitHub:** [github.com/adam-astiti](https://github.com/adam-astiti)
