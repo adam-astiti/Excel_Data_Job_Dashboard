@@ -39,6 +39,7 @@ The initial dataset was processed using Power Query for a robust and repeatable 
 - **Data Type Correction**: Ensured each column had the correct data type (e.g., Text, Fixed Decimal Number) and handled resulting errors by converting them to nulls.
 
 ![image](https://github.com/user-attachments/assets/86f3fdcc-cefd-496a-93ff-222d386438bb)
+
 image descripton: Data Model
 
 - **Data Modeling (Star Schema)**:
